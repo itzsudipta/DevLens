@@ -84,7 +84,8 @@ GitRAG/
 
 ## 🚧 Improvements Coming Soon
 
-*
+* A REST API for programmatic access
+* A modern frontend for a more user-friendly experience
 
 ---
 
@@ -102,4 +103,4 @@ Built with ❤️ by [@itzsudipta](https://github.com/itzsudipta) using LangChai
 
 MIT License
 
-Sudipta Sakar
+Sudipta Sarkar
